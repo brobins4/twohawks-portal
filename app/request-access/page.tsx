@@ -60,7 +60,7 @@ export default function RequestAccessPage() {
             );
 
             // ✅ Change this to YOUR preferred inbox:
-            const to = "info@twohawkscollective.com";
+            const to = "portal@twohawkscollective.com";
 
             window.location.href = `mailto:${to}?subject=${subject}&body=${body}`;
           }}
