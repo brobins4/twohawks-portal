@@ -68,7 +68,7 @@ export default function RequestAccessPage() {
           <div style={styles.grid}>
             <div style={styles.field}>
               <label style={styles.label}>Full Name*</label>
-              <input name="fullName" required style={styles.input} placeholder="Jane Doe" />
+              <input name="fullName" required style={styles.input} placeholder="First Last" />
             </div>
 
             <div style={styles.field}>
