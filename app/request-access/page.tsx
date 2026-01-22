@@ -1,7 +1,5 @@
 "use client";
-export const metadata = {
-  title: "Request Access | Two Hawks Collective",
-};
+
 
 export default function RequestAccessPage() {
   return (
